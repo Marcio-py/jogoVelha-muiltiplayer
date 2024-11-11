@@ -1,0 +1,14 @@
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\bin\Debug\net8.0\velhaMP.exe
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\bin\Debug\net8.0\velhaMP.deps.json
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\bin\Debug\net8.0\velhaMP.runtimeconfig.json
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\bin\Debug\net8.0\velhaMP.dll
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\bin\Debug\net8.0\velhaMP.pdb
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.dll
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\refint\velhaMP.dll
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.pdb
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\velhaMP.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Ambiente de Trabalho\apps em rede\velhaMP\velhaMP\obj\Debug\net8.0\ref\velhaMP.dll
